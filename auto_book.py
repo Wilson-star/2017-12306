@@ -189,4 +189,4 @@ if __name__ == '__main__':
     sel = login_proc('****************', '***********')
     search_proc(sel, train_type, timer)
     book_proc(sel, refresh_interval)
-
+print('你好！')
